@@ -1,0 +1,1 @@
+ssh -i LightsailDefaultPrivateKey.pem bitnami@54.147.229.8
